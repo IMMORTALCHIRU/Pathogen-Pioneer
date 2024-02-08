@@ -12,3 +12,4 @@ This project will solve problem of testing and predicting multiple organs diseas
 1. pip install -r requirements.txt
 2. python app.py
 
+# Don't forget to Star the repo ⭐
