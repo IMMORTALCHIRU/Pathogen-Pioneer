@@ -13,3 +13,5 @@ This project will solve problem of testing and predicting multiple organs diseas
 2. python app.py
 
 # Don't forget to Star the repo ⭐
+
+# Feel Free to ping me 😉
